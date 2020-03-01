@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'sinatra', '~> 1.4.7'
+gem 'slim', '~> 3.0.6'
+gem 'rack', '~> 1.6'
+gem 'rack-test', '~> 0.6.3'
+gem 'thin', '~> 1.6.4'
+gem 'sinatra-contrib', '~> 1.4.6'
+gem 'sinatra-formhelpers-ng'
+gem 'faraday'
+
